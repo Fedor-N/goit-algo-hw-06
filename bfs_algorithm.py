@@ -1,4 +1,4 @@
-# bfs_algorithm.py
+#  bfs_algorithm.py
 def bfs(graph, start, end):
     queue = [(start, [start])]
     while queue:
